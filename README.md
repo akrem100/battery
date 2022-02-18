@@ -1,3 +1,4 @@
+![incremental_charge](https://user-images.githubusercontent.com/72573731/154689801-db0e2a6b-9d68-4d3f-9ba3-0b85e902e168.gif)
 # !battery
 
 A new Flutter project.
